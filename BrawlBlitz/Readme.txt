@@ -23,3 +23,4 @@ Fighting:
 GAME MUSIC TAKEN FROM SUPER SMASH BROS. ALL RIGHTS RESERVED
 
 Coded By: Ananya Mishra :)
+-----------------------------------------------------------------------------------
