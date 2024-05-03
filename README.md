@@ -1,2 +1,2 @@
 # ICD2OG-project
-Project done for course ICD2OG
+Final project for ICD2OG (grade 10 CS)
